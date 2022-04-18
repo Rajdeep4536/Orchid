@@ -137,7 +137,7 @@ const Signup = ({navigation}) => {
      
       </View>
       </TouchableOpacity>
-      <TouchableOpacity onPress={()=>navigation.navigate('SignIn')}>
+      <TouchableOpacity onPress={()=>navigation.navigate('Sign In')}>
       <View style={{marginLeft:88,marginVertical:38}}>
       <Text style={{fontWeight:'bold',color:'black',fontSize:17,}}>
           Sign in --&gt;
